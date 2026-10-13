@@ -1,0 +1,6 @@
+{
+  "name": "Network Protocol Simulator",
+  "description": "Interactive visual simulator for Stop-and-Wait, Go-Back-N, and Selective Repeat ARQ protocols with step-by-step packet animation and real-time network diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
